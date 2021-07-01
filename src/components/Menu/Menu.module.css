@@ -1,0 +1,16 @@
+.menu {
+    display-area: m;
+    padding: 20px;
+    background-color: ghostwhite;
+    font-family: Arial;
+    letter-spacing: 0.05em;
+    font-size: 18px;
+}
+.item {
+    text-decoration: none;
+    padding: 15px;
+}
+
+.item a.activeLink {
+    color: gold;
+}
